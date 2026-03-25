@@ -5,14 +5,14 @@
 Me chamo Kelve Alves Gomes, tenho 19 anos sou do natual do Piauí mas moro em Brasília. Tenho formação em Análise e Desenvolvimento de Sistemas na UNIP. Desenvolvi um projeto pela minha instituição com o proposito de construir uma WebApi para um Hortifruti. Nesse github posto meus projetos em meu repositorio "Portifolio" e também alguns repositorios de cursos e aprendizados.
 
 <p align="left">
-    <a href="https://github.com/LittleAnjel">
+    <a href="https://github.com/Kelve-dev">
         <img 
             alt="GitHub" 
             title="Meu github" 
             src="https://custom-icon-badges.demolab.com/github/followers/LittleAnjel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/LittleAnjel">
+    <a href="https://github.com/Kelve-dev">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -106,14 +106,14 @@ Me chamo Kelve Alves Gomes, tenho 19 anos sou do natual do Piauí mas moro em Br
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LittleAnjel&theme=midnight-purple&include_all_commits=true&show_icons=true&hide_border=false&count_private=false" 
+    src="https://github-readme-stats.vercel.app/api?username=Kelve-dev&theme=midnight-purple&include_all_commits=true&show_icons=true&hide_border=false&count_private=false" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleAnjel&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&custom_title=Tecnologias&langs_count=2" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelve-dev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&custom_title=Tecnologias&langs_count=2" 
   />
   
 
