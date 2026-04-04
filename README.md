@@ -98,23 +98,4 @@ Me chamo Kelve Alves Gomes, tenho 19 anos sou do natual do Piauí mas moro em Br
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Kelve-dev&theme=midnight-purple&include_all_commits=true&show_icons=true&hide_border=false&count_private=false" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelve-dev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&custom_title=Tecnologias&langs_count=2" 
-  />
-  
-
-</p>
